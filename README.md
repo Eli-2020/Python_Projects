@@ -1,5 +1,4 @@
 # Python_Projects
-Table of Content
 ================
 * [Exercise 1](#exercise-1)
   * [Description](#description_1)
@@ -7,6 +6,6 @@ Table of Content
   * [Description](#description_2)
 * [Exercise_3](#exercise-3)
   * [Description](#description_3)
-  * [Installation guide](#installation-guide)
-  * [Credits](#credits)
-  * [Licensing](#licensing)
+* [Installation guide](#installation-guide)
+* [Credits](#credits)
+* [Licensing](#licensing)
